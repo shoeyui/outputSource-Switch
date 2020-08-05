@@ -41,9 +41,9 @@ Return
 
 ; Edit here
 
-!F22:: ExitApp
-F23:: SetDefaultEndpoint( GetDeviceID(Devices, "Headphones") )
-F24:: SetDefaultEndpoint( GetDeviceID(Devices, "Speakers") )
+F6:: ExitApp
+F7:: SetDefaultEndpoint( GetDeviceID(Devices, "Headphones") )
+F8:: SetDefaultEndpoint( GetDeviceID(Devices, "Speakers") )
 
 ; Stop here
 
